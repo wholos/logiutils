@@ -1,0 +1,11 @@
+[package]
+name = "reboot"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+libc = "0.2"
+
+[[bin]]
+name = "reboot"
+path = "main.rs"
