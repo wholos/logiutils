@@ -1,0 +1,7 @@
+all:
+    @gcc -o rm src/main.c
+
+build: all
+
+clean:
+    @rm rm
