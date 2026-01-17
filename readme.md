@@ -3,5 +3,4 @@
 rust
 gcc
 just
-make
 ```
